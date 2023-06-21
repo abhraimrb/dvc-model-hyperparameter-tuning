@@ -1,0 +1,6 @@
+max_depth: 4
+learning_rate: 0.01007486621909071
+n_estimators: 98
+min_child_weight: 1
+lambda: 0.3158411442211271
+alpha: 0.009192295129273902
