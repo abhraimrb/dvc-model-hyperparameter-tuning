@@ -1,0 +1,8 @@
+{
+    "Train_accuracy_score": 0.711484593837535,
+    "Test_accuracy_score": 0.7222222222222222,
+    "Test_precision_score": 0.4827586206896552,
+    "Test_recall_score": 0.5833333333333334,
+    "Test_f1_score": 0.5283018867924529,
+    "AUC_score": 0.7515782828282829
+}
